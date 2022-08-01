@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+<a href="https://www.youtube.com/channel/UCf2q9LbhMtmKFCLrn5zdrhg">
   <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">
 </p>
