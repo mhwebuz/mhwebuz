@@ -2,8 +2,9 @@
 <br><p align="center"><b>Profile Viewers</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mhwebuz}/count.svg"/></p> 
 
- [![Instagram](https://img.shields.io/badge/Telegram-%00000.svg?logo=Telegram&logoColor=white)](https://www.instagram.com/_aadil_m__)
- [![Youtube](https://img.shields.io/badge/Youtube-%00000.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/OpusTechz)
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/mhwebuz) 
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhwebuz)
+
 
 <a href="https://telegram.dog/ContactAdmin_0_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
