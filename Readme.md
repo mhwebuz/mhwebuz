@@ -7,16 +7,10 @@
 
 </p>
 
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=mhwebuz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>    
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhi000&theme=highcontrast)](https://github.com/Aadhi000/github-readme-streak-stats)
-</div>
 
 <p align="center">
   <a href="https://github.com/Aadhi000">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Aadhi000&theme=react-dark" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=mhwebuz&theme=react-dark" />
   </a>
 </p>
 
