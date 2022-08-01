@@ -5,12 +5,10 @@
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/mhwebuz) 
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhwebuz)
 
-
-<a href="https://telegram.dog/ContactAdmin_0_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=aadhi000&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=mhwebuz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>    
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhi000&theme=highcontrast)](https://github.com/Aadhi000/github-readme-streak-stats)
